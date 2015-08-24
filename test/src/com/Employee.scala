@@ -1,4 +1,4 @@
 
 package com
 
-case class Employee (var name : String, var age : Int)
+case class Employee (var name1 : String, var age : Int)
